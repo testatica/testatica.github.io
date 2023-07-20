@@ -50,7 +50,7 @@ nav ul a::after{
     top:0;
     left:0px;
     border-radius: 20px;
-    background-color: #C8EBB1;
+    background-color: #E6CB22;
     z-index: -1;
     transition: 0.5s;
 }
