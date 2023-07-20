@@ -124,7 +124,7 @@ nav ul a:hover:after{
     transition: 0.5s;
 }
 .image:hover{
-    background-color: rgba(73,66,52,0.7);
+    background-color: rgba(11,66,52,0.7);
 }
 .box .inner-box{
     margin: 1.5rem 0 0 1rem;
