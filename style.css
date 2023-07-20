@@ -9,7 +9,7 @@
 .container {
     height: 100vh;
     width: 100%;
-    background: linear-gradient(to right, #E6CB22 70%, #E6CB22 30%);
+    background: linear-gradient(to right, #93C572 70%, #C8EBB1 30%);
     position: relative;
     overflow: hidden;
 }
@@ -28,7 +28,7 @@ nav {
 }
 nav ul {
     display: flex;
-    list-style-type: none;  
+    list-style-type: none;
 }
 nav ul li{
     margin:0 5px;
@@ -50,7 +50,7 @@ nav ul a::after{
     top:0;
     left:0px;
     border-radius: 20px;
-    background-color: #E6CB22;
+    background-color: #C8EBB1;
     z-index: -1;
     transition: 0.5s;
 }
@@ -66,7 +66,7 @@ nav ul a:hover:after{
     justify-content: space-around;
 }
 .image-pista ,.main-text{
-    flex-basis: 200%;
+    flex-basis: 50%;
 }
 .image-pista img{
     width: 100%;
