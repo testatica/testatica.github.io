@@ -66,10 +66,10 @@ nav ul a:hover:after{
     justify-content: space-around;
 }
 .image-pista ,.main-text{
-    flex-basis: 100%;
+    flex-basis: 200%;
 }
 .image-pista img{
-    width: 100%;
+    width: 200%;
 }
 .main-content h1 {
     font-size: 60px;
