@@ -9,7 +9,7 @@
 .container {
     height: 100vh;
     width: 100%;
-    background: linear-gradient(to right, #93C572 70%, #C8EBB1 30%);
+    background: linear-gradient(to right, #93C572 70%, #D8EBB1 30%);
     position: relative;
     overflow: hidden;
 }
@@ -66,7 +66,7 @@ nav ul a:hover:after{
     justify-content: space-around;
 }
 .image-pista ,.main-text{
-    flex-basis: 50%;
+    flex-basis: 100%;
 }
 .image-pista img{
     width: 100%;
